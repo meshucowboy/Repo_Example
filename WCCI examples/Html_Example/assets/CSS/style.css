@@ -1,0 +1,30 @@
+:root{
+    --primary-color:red;
+    --secondary-color:blue;
+    --temporary-color:green;
+}
+p{
+    background-color: blue;
+    color: white;
+}
+.helloworld{
+    background-color: red;
+    color: aqua;
+}
+#Italian{
+    background-color: green;
+    color: white;
+}
+div{
+    background-color: brown;
+    color: blue;
+    border: 3px solid rgb(110, 220, 100) ;
+    margin: left;
+    width: 5vw;
+    box-shadow: 5rem;
+}
+html{
+    background-image: url("/assets/images/Flame\ Hasira.webp");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
